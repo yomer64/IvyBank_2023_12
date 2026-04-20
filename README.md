@@ -7,6 +7,6 @@ step one download the zip file then extract it.
 step two right click the terminal on your computer and run it as an adminstrater. 
 step three type: cd C:\Users\Troy\Downloads\ivys_loan_bank
 step four type: ll_env\Scripts\activate
-step five type:cd "C:\Users\Troy\Downloads\ivys_loan_bank\Ivyone_bank\ivys_bank"
+step five type:cd C:\Users\Troy\Downloads\ivys_loan_bank\Ivyone_bank\ivys_bank
 step six type : python manage.py runserver
 step seven: press ctrl click on the link http://127.0.0.1:8000/ then explore the website
